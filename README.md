@@ -8,6 +8,11 @@ Task2: Prediction using unsupervised ML.
 
 Task3:Exploratory Data Analysis -Retail
       To find weak areas and bussiness problems that can be derived by exploring the 'SampleSuperStore' dataset.
+
+Task 4: EDA on Global Terrorism
+        - as a security/defense analyst fint the hot zone of terrorim.
+        - To derive security issues and insights 
+        
       
 Task 6 : Prediction using Decision Tree Algorithm.
          To create decision tree classifier for 'iris' dataset. 
